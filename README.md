@@ -5,4 +5,4 @@ Para instalar las dependencias al clonar el proyecto ejecutar el comando "npm in
 
 ### ejecutar el proyecto 
 
-ejecutar el preoyecto en modo desarrollo con el comando "npm run dev"
+ejecutar el preoyecto en modo desarrollo con el comando "npm run dev" PONER
